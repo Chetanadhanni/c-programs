@@ -1,0 +1,35 @@
+1.Write a program to print hello word?
+Ans:
+#include<stdio.h>
+int main()
+{
+printf("Hello World");
+return 0;
+}
+
+2.Write a program to print your name?
+Ans:
+#include<stdio.h>
+void main()
+{
+char a[10];
+printf("\n enter your name:");
+scanf("%s",&a);
+printf("%s",a);
+}
+
+3.What is #include<stdio.h>?
+Ans:It is a source file which consists the prototype of function which helps in rectifying problems faster.It includes all basic defined function, compiled and ready.
+
+4.What is printf?
+Ans:printf is a standard predefined output function and its prototype is defined under stdio.h source file
+
+5.What is main?
+Ans:Its the entry point ,and all the calling of functions happens in thee main.The smaller the main ,the more systematic the process of compiling.
+
+6.Why should you learn touch typing on a qwerty keyboard?
+Ans:Its a very efficient way of typing and helps one to focus completely on the job or task and not on where the finger is moving on a keyboard
+
+7.How will you learn touch typing on a qwerty keyboard?
+Ans:PRACTICE is always the answer,but tips are not to rush ,once the fingers are placed in the right order.only speed up when one is hitting the keys right out of habit.
+
